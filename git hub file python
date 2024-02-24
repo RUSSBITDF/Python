@@ -1,0 +1,14 @@
+
+name = "separatist"
+age = 1200
+weight = 600
+height = 210
+coins = 100
+
+print(f"привет, {name} ")
+print(f"Привет, {name}. Тебе {age} лет .Рост {height} см.вес {weight} кг")
+
+if coins>50:
+     print("Куплено")
+else:
+     print("Недостаточно средств")
